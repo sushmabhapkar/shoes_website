@@ -1,4 +1,5 @@
 import React from 'react';
+import './ShoesFrom.css'; // Import the CSS file
 
 export default function ShoesForm() {
   return (
